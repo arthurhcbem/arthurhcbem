@@ -9,11 +9,14 @@
 
 - 🌱 <strong>Informações sobre o que você está estudando no momento (Áreas, linguagens)</strong>
 
+<!---
 - 👯 Eu estou procurando colaborar em projetos open source.
 
 - 💬 Pergunte-me sobre <strong>Seus interesses</strong>
 </p>
 <p align="center">📫<b>Meus contatos</br></p>
+
+--->
 
 <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/SEU_FACE_AQUI?ref=bookmarks" target="_blank"> <img align="center" src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
