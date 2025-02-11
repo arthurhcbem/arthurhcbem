@@ -7,9 +7,10 @@
 
 - 🔭 <strong>Sou designer e estou cursando Análise e Desenvolvimento de Sistemas</strong>
 
+<!---
+
 - 🌱 <strong>Informações sobre o que você está estudando no momento (Áreas, linguagens)</strong>
 
-<!---
 - 👯 Eu estou procurando colaborar em projetos open source.
 
 - 💬 Pergunte-me sobre <strong>Seus interesses</strong>
