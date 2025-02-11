@@ -27,8 +27,8 @@
   <!---
 <a href = "SEU_SITE_PESSOAL_AQUI" target="_blank"><img align="center" src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>
 </p>
---->
 *************
 **Contador De Visitas**
+--->
 
 ![VisitorCount](https://profile-counter.glitch.me/{arthurhcbem}/count.svg)
