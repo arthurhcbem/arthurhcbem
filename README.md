@@ -5,7 +5,7 @@
   
 - 👦 Eu sou <strong>Arthur</strong> de <strong>Recife</strong>
 
-- 🔭 <strong>Sou designer e estou cursando Análise e Desenvolvimento de Sistemas</strong>
+- 🔭 <strong>Sou Designer e estou cursando Análise e Desenvolvimento de Sistemas</strong>
 
 <!---
 
