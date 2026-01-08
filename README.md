@@ -3,14 +3,15 @@
 
 <p align="left">
   
-- 👦 Eu sou <strong>Arthur</strong> de <strong>Recife</strong>
+- 👦 Eu sou <strong>Arthur Bem</strong>, de <strong>Recife-PE </strong>🇧🇷
 
-- 🔭 <strong>Sou Designer e estou cursando Análise e Desenvolvimento de Sistemas</strong>
+- 🔭 <strong>Sou Designer Gráfico e estudante de Análise e Desenvolvimento de Sistemas</strong>
+
+
+
+- 🌱 <strong>Estou aprendendo Java, JavaScript, react e swift 🍎 </strong>
 
 <!---
-
-- 🌱 <strong>Informações sobre o que você está estudando no momento (Áreas, linguagens)</strong>
-
 - 👯 Eu estou procurando colaborar em projetos open source.
 
 - 💬 Pergunte-me sobre <strong>Seus interesses</strong>
