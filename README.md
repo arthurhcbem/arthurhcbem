@@ -9,7 +9,7 @@
 
 
 
-- 🌱 <strong>Estou aprendendo Java, JavaScript e swift 🍎 </strong>
+- 🌱 <strong>Estou aprendendo JavaScript, java, python e swift 🍎 </strong>
 
 <!---
 - 👯 Eu estou procurando colaborar em projetos open source.
